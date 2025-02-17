@@ -1,0 +1,1 @@
+This React Native bug is triggered when using the `FlatList` component with a large dataset and complex item rendering logic.  The issue manifests as random crashes or freezes, especially on lower-end devices. The root cause is often related to inefficient rendering or memory management within the `renderItem` function.
